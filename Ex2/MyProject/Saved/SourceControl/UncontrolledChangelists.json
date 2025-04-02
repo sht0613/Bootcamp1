@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Bootcamp1/Ex2/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/BluePrint/BP_MoveLeftRight.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JV/2W8YVE4HQFZXT15AYSHTS6.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/BluePrint/BP_MoveRect.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/BP_Spl.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/BP_SplineMove.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OP/Q60Z0NM4GXYTMUMJLUPBTW.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/BluePrint/HUD_Widget.uasset"
+			]
+		}
+	]
+}
