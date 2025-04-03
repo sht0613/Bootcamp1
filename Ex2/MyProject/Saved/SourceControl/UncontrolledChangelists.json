@@ -9,13 +9,30 @@
 				"C:/Bootcamp1/Ex2/MyProject/Content/BluePrint/BP_MoveLeftRight.uasset",
 				"C:/Bootcamp1/Ex2/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JV/2W8YVE4HQFZXT15AYSHTS6.uasset",
 				"C:/Bootcamp1/Ex2/MyProject/Content/BluePrint/BP_MoveRect.uasset",
-				"C:/Bootcamp1/Ex2/MyProject/Content/BP_Spl.uasset",
 				"C:/Bootcamp1/Ex2/MyProject/Content/BP_SplineMove.uasset",
 				"C:/Bootcamp1/Ex2/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OP/Q60Z0NM4GXYTMUMJLUPBTW.uasset",
 				"C:/Bootcamp1/Ex2/MyProject/Content/BluePrint/HUD_Widget.uasset",
 				"C:/Bootcamp1/Ex2/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/6P/1BF84YVPV6F0XPD53LQE03.uasset",
 				"C:/Bootcamp1/Ex2/MyProject/Content/BluePrint/Bp_Timer.uasset",
-				"C:/Bootcamp1/Ex2/MyProject/Content/BluePrint/EN_SquareMoving.uasset"
+				"C:/Bootcamp1/Ex2/MyProject/Content/BluePrint/EN_SquareMoving.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/BluePrint/BP_HUD.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/BluePrint/BPI_Overlap.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/BluePrint/BP_Switch.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/OM/AX3NAB6ABXNBFI7OJB1NHS.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/21/09WMRTM1D9HESR7GRMZ530.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2Z/YCYVRQ2UK7WX7PN0Y2RABR.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/BluePrint/Bp_Coin.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/BluePrint/BP_CoinInven.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Q3/VQ98HFL76RGA6WTSRW2OYO.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/ES/DE0SIPGITQNU7VCVC6LDV5.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/Dispatcher/BP_MoveRect1.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/Dispatcher/BP_MoveLeftRight1.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/Dispatcher/BP_Switch1.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/Dispatcher/BP_CountBox.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/RQ/X26NMV6PFLSDV1G9XOR3E4.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/G1/ZQC6IBZGZ4RRUXYWWRRVBQ.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Bootcamp1/Ex2/MyProject/Content/BP_Spl.uasset"
 			]
 		}
 	]
