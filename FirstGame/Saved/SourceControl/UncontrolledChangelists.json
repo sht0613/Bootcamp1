@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Bootcamp1/FirstGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Bootcamp1/FirstGame/Content/AI/BP_ThirdPersonCharacter1.uasset",
+				"C:/Bootcamp1/FirstGame/Content/AI/AI_Character.uasset",
+				"C:/Bootcamp1/FirstGame/Content/AI/BP_AIController.uasset",
+				"C:/Bootcamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/Q9/UGPFCHE6A11YZF5Q0RF9L8.uasset",
+				"C:/Bootcamp1/FirstGame/Content/AI/BT_AICharacter.uasset",
+				"C:/Bootcamp1/FirstGame/Content/AI/Task_FindTarget.uasset",
+				"C:/Bootcamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FV/89O37T5KMZTKT2A5PZ0043.uasset",
+				"C:/Bootcamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/CR/PSS5N5VR4AN0L1AS69ZPTP.uasset",
+				"C:/Bootcamp1/FirstGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Animations/Attack/EN_AIStates.uasset",
+				"C:/Bootcamp1/FirstGame/Content/AI/Task_CheckBattleDistance.uasset",
+				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Animations/Attack/Anim_Attack.uasset",
+				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Animations/Attack/Anim_Attack_Montage.uasset",
+				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Animations/Attack/Anim_ComboAttack.uasset",
+				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Animations/Attack/Anim_ComboAttack_Montage.uasset",
+				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Animations/Attack/Anim_ShortAttack.uasset",
+				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Animations/Attack/Anim_ShortAttack_Montage.uasset",
+				"C:/Bootcamp1/FirstGame/Content/AI/BB_AICharacter.uasset"
+			]
+		}
+	]
+}
