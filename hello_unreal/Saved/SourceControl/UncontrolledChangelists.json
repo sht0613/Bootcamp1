@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/unreal_test/Bootcamp_git/hello_unreal/Content/Blueprints/HUD_widget.uasset",
+				"C:/unreal_test/Bootcamp_git/hello_unreal/Content/Blueprints/BP_Bullet.uasset"
+			]
+		}
+	]
+}
