@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/unreal_test/Bootcamp_git/FirstGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/unreal_test/Bootcamp_git/FirstGame/Content/ThirdPerson/Blueprints/HUD_Widget.uasset",
+				"C:/unreal_test/Bootcamp_git/FirstGame/Content/ThirdPerson/Blueprints/EN_TimeType.uasset",
+				"C:/unreal_test/Bootcamp_git/FirstGame/Content/ThirdPerson/Blueprints/Bp_HUD.uasset",
+				"C:/unreal_test/Bootcamp_git/FirstGame/Content/ThirdPerson/Blueprints/BP_Timer.uasset",
+				"C:/unreal_test/Bootcamp_git/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BU/GUXW3UT2RX9BHETOGMSGFB.uasset",
 				"C:/Bootcamp1/FirstGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Bootcamp1/FirstGame/Content/AI/AI_Character.uasset",
 				"C:/Bootcamp1/FirstGame/Content/AI/BP_AIController.uasset",
