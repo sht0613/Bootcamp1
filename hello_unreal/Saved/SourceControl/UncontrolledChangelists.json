@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Bootcamp1/hello_unreal/Content/Blueprints/BP_Cannon.uasset",
+				"C:/Bootcamp1/hello_unreal/Content/Deligated/BP_SwitchBox_delegate.uasset",
+				"C:/Bootcamp1/hello_unreal/Content/Blueprints/BP_coin.uasset",
+				"C:/Bootcamp1/hello_unreal/Content/Blueprints/HUD_widget.uasset",
+				"C:/Bootcamp1/hello_unreal/Content/Blueprints/BP_HUD.uasset",
+				"C:/Bootcamp1/hello_unreal/Content/Ex1/BP_Red.uasset",
+				"C:/Bootcamp1/hello_unreal/Content/Ex1/BP_CoinGet.uasset",
+				"C:/Bootcamp1/hello_unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/JB/69R8W5TQX3Y7R83YQH3JDE.uasset",
+				"C:/Bootcamp1/hello_unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/KK/ZWIRH4E091NDEGHMX5U2FK.uasset",
+				"C:/Bootcamp1/hello_unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/27/Z4CEFGD9PR0QQWF4VPNG4I.uasset",
 				"C:/unreal_test/Bootcamp_git/hello_unreal/Content/Blueprints/HUD_widget.uasset",
 				"C:/unreal_test/Bootcamp_git/hello_unreal/Content/Blueprints/BP_Bullet.uasset"
 			]

@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Bootcamp1/FirstGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Bootcamp1/FirstGame/Content/AI/BP_ThirdPersonCharacter1.uasset",
 				"C:/Bootcamp1/FirstGame/Content/AI/AI_Character.uasset",
 				"C:/Bootcamp1/FirstGame/Content/AI/BP_AIController.uasset",
 				"C:/Bootcamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/Q9/UGPFCHE6A11YZF5Q0RF9L8.uasset",
@@ -23,7 +22,33 @@
 				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Animations/Attack/Anim_ComboAttack_Montage.uasset",
 				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Animations/Attack/Anim_ShortAttack.uasset",
 				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Animations/Attack/Anim_ShortAttack_Montage.uasset",
-				"C:/Bootcamp1/FirstGame/Content/AI/BB_AICharacter.uasset"
+				"C:/Bootcamp1/FirstGame/Content/AI/BB_AICharacter.uasset",
+				"C:/Bootcamp1/FirstGame/Content/AI/Task_CheckBattleDistanceBug.uasset",
+				"C:/Bootcamp1/FirstGame/Content/AI/Task_CheckChase.uasset",
+				"C:/Bootcamp1/FirstGame/Content/AI/Task_CheckBattle.uasset",
+				"C:/Bootcamp1/FirstGame/Content/AI/ST_Skill.uasset",
+				"C:/Bootcamp1/FirstGame/Content/AI/DT_Skill.uasset",
+				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset",
+				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Animations/Manny/Forward_Get_Up_UE5.uasset",
+				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Animations/Manny/Backward_Get_Up_UE5.uasset",
+				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Animations/Manny/Backward_Get_Up_UE5_Montage.uasset",
+				"C:/Bootcamp1/FirstGame/Content/Characters/Mannequins/Animations/Manny/Forward_Get_Up_UE5_Montage.uasset",
+				"C:/Bootcamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Bootcamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/5N/Y1F2JB5HXY9QWLGTFQ319X.uasset",
+				"C:/Bootcamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FU/P40856RKX728CV41AS4OIB.uasset",
+				"C:/Bootcamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/82/4Z5VCAP1G3L5ZJHZV5EZ8E.uasset",
+				"C:/Bootcamp1/FirstGame/Content/ThirdPerson/Blueprints/Bp_Gemeick.uasset",
+				"C:/Bootcamp1/FirstGame/Content/ThirdPerson/Blueprints/Bp_HUD.uasset",
+				"C:/Bootcamp1/FirstGame/Content/ThirdPerson/Blueprints/BP_Coin.uasset",
+				"C:/Bootcamp1/FirstGame/Content/ThirdPerson/Blueprints/Bp_Gimmick.uasset",
+				"C:/Bootcamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Bootcamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/D8/A6M96Q4CPMFLW7IKVOPQFN.uasset",
+				"C:/Bootcamp1/FirstGame/Content/ThirdPerson/Blueprints/HUD_Widget.uasset",
+				"C:/Bootcamp1/FirstGame/Content/ThirdPerson/Blueprints/BP_CoinInven.uasset",
+				"C:/Bootcamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/O7/WFSKLJ00MQBLHMNALDKHUE.uasset",
+				"C:/Bootcamp1/FirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/GW/G9N7YBVQUJ44IB9DQ8MK6B.uasset",
+				"C:/Bootcamp1/FirstGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Bootcamp1/FirstGame/Content/AI/BP_ThirdPersonCharacter1.uasset"
 			]
 		}
 	]

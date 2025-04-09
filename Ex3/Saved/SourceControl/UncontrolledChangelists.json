@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Bootcamp1/Ex3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Bootcamp1/Ex3/Content/BluePrint/BP_MoveRect_D.uasset",
+				"C:/Bootcamp1/Ex3/Content/BluePrint/BP_Bullet_D.uasset",
+				"C:/Bootcamp1/Ex3/Content/BluePrint/BP_Cannon_D.uasset",
+				"C:/Bootcamp1/Ex3/Content/BluePrint/BP_CountBox_D.uasset",
+				"C:/Bootcamp1/Ex3/Content/BluePrint/BP_MoveLeftRight_D.uasset",
+				"C:/Bootcamp1/Ex3/Content/BluePrint/BP_SwitchBod_D.uasset",
+				"C:/Bootcamp1/Ex3/Content/BluePrint/EN_MoveType.uasset",
+				"C:/Bootcamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/2N/WDO854UPXBTOP4TQ0XXVU1.uasset",
+				"C:/Bootcamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/O9/07R6WY4R6KBOT1HE25L8WZ.uasset",
+				"C:/Bootcamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZX/OEJ9V8J9RIFEL47UMI53M9.uasset",
 				"C:/unreal_test/Bootcamp_git/Ex3/Content/BluePrint/BP_SwitchBod_D.uasset",
 				"C:/unreal_test/Bootcamp_git/Ex3/Content/BluePrint/BP_MoveLeftRight_D.uasset",
 				"C:/unreal_test/Bootcamp_git/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/O9/07R6WY4R6KBOT1HE25L8WZ.uasset",
@@ -22,18 +33,8 @@
 				"C:/unreal_test/Bootcamp_git/Ex3/Content/BluePrint/BP_Cannon_D.uasset",
 				"C:/unreal_test/Bootcamp_git/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZX/OEJ9V8J9RIFEL47UMI53M9.uasset",
 				"C:/unreal_test/Bootcamp_git/Ex3/Content/BluePrint/Count_Widget.uasset",
-				"C:/Bootcamp1/Ex3/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Bootcamp1/Ex3/Content/BluePrint/BP_MoveRect_D.uasset",
-				"C:/Bootcamp1/Ex3/Content/BluePrint/BP_Bullet_D.uasset",
-				"C:/Bootcamp1/Ex3/Content/BluePrint/BP_Cannon_D.uasset",
-				"C:/Bootcamp1/Ex3/Content/BluePrint/BP_CountBox_D.uasset",
-				"C:/Bootcamp1/Ex3/Content/BluePrint/BP_MoveLeftRight_D.uasset",
-				"C:/Bootcamp1/Ex3/Content/BluePrint/BP_SwitchBod_D.uasset",
 				"C:/Bootcamp1/Ex3/Content/BluePrint/Move_Type.uasset",
-				"C:/Bootcamp1/Ex3/Content/BluePrint/EN_Move_Type.uasset",
-				"C:/Bootcamp1/Ex3/Content/BluePrint/EN_MoveType.uasset",
-				"C:/Bootcamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/2N/WDO854UPXBTOP4TQ0XXVU1.uasset",
-				"C:/Bootcamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/O9/07R6WY4R6KBOT1HE25L8WZ.uasset"
+				"C:/Bootcamp1/Ex3/Content/BluePrint/EN_Move_Type.uasset"
 			]
 		}
 	]
