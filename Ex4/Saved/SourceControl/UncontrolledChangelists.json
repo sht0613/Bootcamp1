@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Bootcamp1/Ex4/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Bootcamp1/Ex4/Content/ThirdPerson/Blueprints/BP_PlayerController.uasset",
+				"C:/Bootcamp1/Ex4/Content/ThirdPerson/Blueprints/BP_GameType.uasset",
+				"C:/Bootcamp1/Ex4/Content/ThirdPerson/Blueprints/EN_GameType.uasset",
+				"C:/Bootcamp1/Ex4/Content/ThirdPerson/Blueprints/BP_GameState.uasset",
+				"C:/Bootcamp1/Ex4/Content/ThirdPerson/Blueprints/BP_PlayerState.uasset",
+				"C:/Bootcamp1/Ex4/Content/ThirdPerson/Blueprints/BP_Hud.uasset",
+				"C:/Bootcamp1/Ex4/Content/ThirdPerson/Blueprints/BP_HUDWIDGET.uasset",
+				"C:/Bootcamp1/Ex4/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+			]
+		}
+	]
+}
