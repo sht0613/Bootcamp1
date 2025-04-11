@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Bootcamp1/Ex1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Bootcamp1/Ex1/Content/ThirdPerson/Blueprints/BP_Spawner.uasset",
+				"C:/Bootcamp1/Ex1/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Bootcamp1/Ex1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/W6/R4RAVDRB3RZRKSVNGQYSO0.uasset",
+				"C:/Bootcamp1/Ex1/Content/ThirdPerson/Blueprints/BP_Ball.uasset",
+				"C:/Bootcamp1/Ex1/Content/ThirdPerson/Blueprints/HUD_Wodget.uasset",
+				"C:/Bootcamp1/Ex1/Content/ThirdPerson/Blueprints/BP_timer.uasset",
+				"C:/Bootcamp1/Ex1/Content/ThirdPerson/Blueprints/BP_SwitchBox.uasset",
+				"C:/Bootcamp1/Ex1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/50/UWBNCOCRBYPV5JGOMWDRBC.uasset",
+				"C:/Bootcamp1/Ex1/Content/ThirdPerson/Blueprints/BP_Spawn.uasset"
+			]
+		}
+	]
+}
