@@ -6,13 +6,19 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Bootcamp1/Ex5/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Bootcamp1/Ex5/Content/ThirdPerson/Blueprints/BP_GameType.uasset",
 				"C:/Bootcamp1/Ex5/Content/ThirdPerson/Blueprints/EN_GameType.uasset",
 				"C:/Bootcamp1/Ex5/Content/ThirdPerson/Blueprints/BP_GameState.uasset",
 				"C:/Bootcamp1/Ex5/Content/ThirdPerson/Blueprints/BP_HUDWidget.uasset",
 				"C:/Bootcamp1/Ex5/Content/ThirdPerson/Blueprints/BP_GoalArea.uasset",
 				"C:/Bootcamp1/Ex5/Content/ThirdPerson/Blueprints/BP_HUD.uasset",
-				"C:/Bootcamp1/Ex5/Content/ThirdPerson/Blueprints/BP_PlayerState.uasset"
+				"C:/Bootcamp1/Ex5/Content/ThirdPerson/Blueprints/BP_PlayerState.uasset",
+				"C:/Bootcamp1/Ex5/Content/MonsterForSurvivalGame/Mesh/Polyart/BP_ChestMonster_Skeleton.uasset",
+				"C:/Bootcamp1/Ex5/Content/MonsterForSurvivalGame/Mesh/Polyart/BS_ChestMonster_Skeleton.uasset",
+				"C:/Bootcamp1/Ex5/Content/ThirdPerson/Blueprints/BP_C.uasset",
+				"C:/Bootcamp1/Ex5/Content/ThirdPerson/Blueprints/BP_ChestMonster.uasset",
+				"C:/Bootcamp1/Ex5/Content/MonsterForSurvivalGame/Mesh/Polyart/ABP_ChestMonster_Skeleton.uasset",
+				"C:/Bootcamp1/Ex5/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Bootcamp1/Ex5/Content/ThirdPerson/Blueprints/BP_GameType.uasset"
 			]
 		}
 	]
